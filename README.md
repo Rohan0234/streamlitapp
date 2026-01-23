@@ -51,12 +51,3 @@ When the application is running:
 
 ---
 
-## Installation and Execution
-
-### Local Setup
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Rohan0234/hello-world-streamlit.git
-cd hello-world-streamlit
